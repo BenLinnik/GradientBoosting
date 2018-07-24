@@ -7,3 +7,5 @@ Gradient Boosted Regression Trees (GBRT) or shorter Gradient Boosting is a flexi
 ![img/example.png](img/example.png)
 
 ### Open [GradientBoosting.ipynb](GradientBoosting.ipynb) to see the full code and the description.
+
+![img/XY.png](img/XY.png)
